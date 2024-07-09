@@ -1,7 +1,7 @@
 [![Version](https://img.shields.io/badge/version-2.5.0-green)](https://github.com/KaioHSG/authy-desktop-legacy/releases/2.5.0)
 [![Downloads](https://img.shields.io/github/downloads/KaioHSG/authy-desktop-legacy/total)](https://github.com/KaioHSG/authy-desktop-legacy/releases)
 
-# Authy Desktop Legacy
+# Authy Desktop Windows Legacy
 
 ## How to use
 
